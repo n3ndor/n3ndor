@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @n3ndor
-- 👀 I’m interested in developing new skills
-- 🌱 I’m currently learning Python, Javascript, Java
+- 👋 Hi, I’m Nandor. @n3ndor
+- 👀 I’m interested in developing new skills and helping others
+- 🌱 I’m currently learning Python, Javascript and Web Dev in a coding Bootcamp
 - 💞️ I’m looking to collaborate on Development projects
-- 📫 How to reach ... email
+- 📫 You can reach me on email
 
 <!---
 n3ndor/n3ndor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

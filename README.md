@@ -53,9 +53,11 @@ https://n3ndor.github.io/mywebsite/ = Some fun Work, Logo, Navbar, Parallax (not
 <br>
 Deploy on AWS:
 
-http://13.53.188.111 = Login/Register - Python/Flask - Show from db - Add / Edit / Remove - Visit/Unvisit (stopped right now)
+http://13.48.85.57/ = React MERN - CRUD - Set Player Position and Game Attendance from 3 Games - (server online)
 
-http://13.50.241.13 = Same Python/Flask logic with other Thema (stopped right now)
+http://13.53.188.111 = Login/Register - Python/Flask - Show from db - Add / Edit / Remove - Visit/Unvisit (server stopped)
+
+http://13.50.241.13 = Same Python/Flask logic with other Thema (server stopped)
 
 
 

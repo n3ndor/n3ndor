@@ -51,13 +51,13 @@ I'm currently a student at the Coding Dojo Bootcamp, where I'm learning full-sta
 https://n3ndor.github.io/mywebsite/ = Some fun Work, Logo, Navbar, Parallax (not finished)
 
 <br>
-Deploy on AWS:
-
-http://13.48.85.57/ = React MERN - CRUD - Set Player Position and Game Attendance from 3 Games - (server online)
-
-http://13.53.188.111 = Login/Register - Python/Flask - Show from db - Add / Edit / Remove - Visit/Unvisit (server stopped)
-
-http://13.50.241.13 = Same Python/Flask logic with other Thema (server stopped)
+Deployed on AWS:
+<br>
+http://16.16.162.11/ = React MERN - CRUD - Find a Store - Only opened Store can be deleted - Sort (server ONLINE) <br>
+http://13.48.85.57/ = React MERN - CRUD - Set Player Position and Game Attendance from 3 Games - (server ONLINE) <br>
+<br>
+http://13.53.188.111 = Login/Register - Python/Flask - Show from db - Add / Edit / Remove - Visit/Unvisit (server stopped/offline)<br>
+http://13.50.241.13 = Same Python/Flask logic with other Thema (server stopped/offline) <br>
 
 
 

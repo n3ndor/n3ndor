@@ -1,7 +1,9 @@
 # Hi there, I'm Nandor 👋
 
-I'm currently a student at the Coding Dojo Bootcamp, where I'm learning full-stack web development. <br/>
- I'm passionate about creating efficient, scalable, and user-friendly applications.
+Experienced full-stack web developer and graduate of the prestigious Coding Dojo Bootcamp. <br> 
+Passionate about crafting efficient, scalable, and user-friendly web applications. <br> 
+Equipped with a strong foundation in web development, I bring a collaborative mindset, effective communication skills, and a continuous learning mindset. <br>
+Ready to leverage my expertise to create innovative solutions and make a meaningful impact in the industry.
 
 <p align="center">
   <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg" alt="banner"/>

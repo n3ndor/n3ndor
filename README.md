@@ -66,8 +66,8 @@ Deployed on AWS:
   <h2>GitHub Snake Game</h2>
   <div style="display: flex; align-items: center; justify-content: center; height: 200px; background-color: #ebedf0;">
     <div style="border: 1px solid #ccc; background-color: #fff; padding: 10px;">
-      <!-- Add the snake game code here -->
-      <h3>Use arrow keys to play!</h3>
+      <!-- Add the snk GitHub action code here -->
+      <img alt="GitHub Snake Game" src="dist/github-snake.svg" />
     </div>
   </div>
 </p>

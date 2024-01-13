@@ -5,6 +5,13 @@ Passionate about crafting efficient, scalable, and user-friendly web application
 Equipped with a strong foundation in web development, I bring a collaborative mindset, effective communication skills, and a continuous learning mindset. <br>
 Ready to leverage my expertise to create innovative solutions and make a meaningful impact in the industry.
 
+Check out my portfolio page:
+https://n3ndor.vercel.app/
+
+<br />
+<br />
+
+
 <p align="center">
   <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg" alt="banner"/>
 </p>
@@ -61,21 +68,6 @@ Ready to leverage my expertise to create innovative solutions and make a meaning
 ## 📈 GitHub Stats
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n3ndor&theme=monokai)
-
-<br><br>
-
- 💪😎 Some Website made by me:
- 
-https://n3ndor.github.io/mywebsite/ = Some fun Work, Logo, Navbar, Parallax (not finished)
-
-<br>
-Deployed on AWS:
-<br>
- - Find a Store = React MERN + CRUD - Find a Store - Only opened Store can be deleted - Sort (server stopped/offline) <br>
- - Team Manager = React MERN + CRUD - Set Player Position and Game Attendance from 3 Games - (server stopped/offline) <br>
-<br>
-  - Tree Arbortrary = Python/Flask + CRUD - Login/Register - Many-to-Many relation  Visit/Unvisit (server stopped/offline)<br>
-  - Band Shows = Python/Flask + CRUD - Login/Register - Many-to-Many relation  (server stopped/offline) <br>
 
 
 

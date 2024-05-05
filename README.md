@@ -7,6 +7,9 @@ Ready to leverage my expertise to create innovative solutions and make a meaning
 
 Check out my portfolio page:
 https://n3ndor.vercel.app/
+<br />
+Or connect with me at:
+https://www.linkedin.com/in/nandornagylinked/
 
 <br />
 <br />

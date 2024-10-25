@@ -1,15 +1,19 @@
 # Hi there, I'm Nandor 👋
 
-Experienced full-stack web developer and graduate of the prestigious Coding Dojo Bootcamp. <br> 
-Passionate about crafting efficient, scalable, and user-friendly web applications. <br> 
-Equipped with a strong foundation in web development, I bring a collaborative mindset, effective communication skills, and a continuous learning mindset. <br>
-Ready to leverage my expertise to create innovative solutions and make a meaningful impact in the industry.
-
-Check out my portfolio page:
-https://n3ndor.vercel.app/
-<br />
-Or connect with me at:
-https://www.linkedin.com/in/nandornagylinked/
+I'm a full-stack developer with a focus on front-end craftsmanship. With over 2 years of experience in startups and diverse companies, I bring a keen eye for pixel-perfect styling, responsive design, and logical state management to every project. I’m passionate about transforming client ideas into seamless, scalable, and user-friendly web applications, always aiming to enhance the UI/UX with modern and intuitive designs.
+<br /> <br />
+- Tech Stack <br />
+Focused on Next.js, TypeScript, Tailwind, and Python, I create engaging, responsive interfaces that reflect client needs and drive user engagement.
+<br /><br />
+- Experience <br />
+I’ve thrived in both team-based environments and independent roles, adapting my skills to diverse project demands. Whether working on part-time or project-based assignments, I prioritize client satisfaction and deliver solutions that balance functionality with aesthetic appeal.
+<br /> <br />
+- Client-Oriented Mindset <br />
+Meeting the client's vision is my top priority. I enjoy collaborating with clients to align on design decisions that not only look good but also deliver a better user experience and user interface.
+<br /> <br />
+- Connect with me: <br />
+Check out my portfolio page: https://n3ndor.vercel.app/ <br />
+Or send a connection on LinkedIn: https://www.linkedin.com/in/nandornagylinked/
 
 <br />
 <br />

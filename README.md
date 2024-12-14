@@ -13,7 +13,7 @@ Meeting the client's vision is my top priority. I enjoy collaborating with clien
 <br /> <br />
 - Connect with me: <br />
 Check out my portfolio page: https://n3ndor.vercel.app/ <br />
-Or send a connection on LinkedIn: https://www.linkedin.com/in/nandornagylinked/
+Or send a connection on LinkedIn: https://www.linkedin.com/in/n3ndor
 
 <br />
 <br />

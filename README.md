@@ -1,6 +1,6 @@
 # Hi there, I'm Nandor 👋
 
-I'm a full-stack developer with a focus on front-end craftsmanship. With over 2 years of experience in startups and diverse companies, I bring a keen eye for pixel-perfect styling, responsive design, and logical state management to every project. I’m passionate about transforming client ideas into seamless, scalable, and user-friendly web applications, always aiming to enhance the UI/UX with modern and intuitive designs.
+I'm a full-stack developer with a focus on front-end craftsmanship. With over 3 years of experience in startups and diverse companies, I bring a keen eye for pixel-perfect styling, responsive design, and logical state management to every project. I’m passionate about transforming client ideas into seamless, scalable, and user-friendly web applications, always aiming to enhance the UI/UX with modern and intuitive designs.
 <br /> <br />
 - Tech Stack <br />
 Focused on Next.js, TypeScript, Tailwind, and Python, I create engaging, responsive interfaces that reflect client needs and drive user engagement.

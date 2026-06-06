@@ -1,4 +1,4 @@
-# Hey, I'm Nandor 👋
+# Hey, I'm Nandor
 
 Full-Stack Engineer and Automation Specialist with 5+ years of experience. I build web and mobile apps with Next.js, TypeScript, and React Native, and I design intelligent automation workflows with n8n and AI integrations.
 
@@ -6,7 +6,7 @@ What keeps me going is the hunger to solve real problems. I love taking somethin
 
 ## What I'm working on
 
-- 🔧 Building n8n automation workflows with AI/RAG integrations at [Creator Linkup](https://creatorlinkup.com)
+- 🔧 Building n8n automation workflows with AI/RAG integrations at [Creator Linkup](https://creatorlinkup.de)
 - 📱 Shipping cross-platform mobile apps with React Native and Flutter
 - 🤖 Exploring LLM integrations, chatbot systems, and intelligent web scraping
 - 🌐 Delivering freelance automation and full-stack solutions for clients across Germany, Switzerland, and the US
@@ -55,11 +55,11 @@ What keeps me going is the hunger to solve real problems. I love taking somethin
 
 ## A few numbers
 
-- 65+ n8n workflows built and deployed in production
+- 100+ n8n workflows built and deployed in production
 - Reduced 16 hrs/week of manual work to 2 or 3 hrs through automation
 - 20+ web and mobile screens shipped with WCAG 2.1 accessibility
 - 10+ developers mentored across multiple teams
-- Worked with 13+ clients across DACH region and the US
+- Worked with 12+ clients across DACH region and the US
 
 ## Let's connect
 
